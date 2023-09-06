@@ -1,0 +1,22 @@
+
+m
+java:S1192I"KDefine a constant instead of duplicating this literal "categories" 4 times.(÷ŸúÔøÿÿÿÿ8ÈÈÿá¥1
+m
+java:S1192h"PDefine a constant instead of duplicating this literal "redirect:/books" 3 times.(Öİñâ8ÕÈÿá¥1
+e
+java:S1192J"HDefine a constant instead of duplicating this literal "authors" 4 times.(ùÓˆ»8ÕÈÿá¥1
+Y
+java:S4973*"<Strings and Boxed types should be compared using "equals()".(–´İš8×Èÿá¥1
+Z
+java:S1854&"8Remove this useless assignment to local variable "most".(¢«ú”şÿÿÿÿ8ƒÉÿá¥1
+K
+java:S1481&")Remove this unused "most" local variable.(¢«ú”şÿÿÿÿ8…Éÿá¥1
+I
+java:S1481'"'Remove this unused "id" local variable.(Ñ‰Üšùÿÿÿÿ8…Éÿá¥1
+X	java:S125("<This block of commented-out lines of code should be removed.(Íå¦ù8…Éÿá¥1
+\
+java:S4684`"@Replace this persistent entity with a simple POJO or DTO object.(…™€8‘Éÿá¥1
+^
+java:S4684›"@Replace this persistent entity with a simple POJO or DTO object.(Ç²Á®8–Éÿá¥1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ª‰â¥1

@@ -1,0 +1,18 @@
+
+m
+java:S1192,"KDefine a constant instead of duplicating this literal " not found" 5 times.(¨Çüÿÿÿÿ8òñ§á¥1
+p
+java:S1192,"NDefine a constant instead of duplicating this literal "Book with id " 5 times.(¨Çüÿÿÿÿ8òñ§á¥1
+y
+java:S1488+"\Immediately return this expression instead of assigning it to the temporary variable "book".(ÚóÁ8óñ§á¥1
+~
+java:S1488a"\Immediately return this expression instead of assigning it to the temporary variable "user".(ŠÅ³şÿÿÿÿ8óñ§á¥1
+Y
+java:S3655a"7Call "Optional#isPresent()" before accessing the value.(ŠÅ³şÿÿÿÿ8„ò§á¥1
+c
+java:S1126H"AReplace this if-then-else statement by a single return statement.(âô ßıÿÿÿÿ8ò§á¥1
+c
+java:S1126R"AReplace this if-then-else statement by a single return statement.(„ÅÑüÿÿÿÿ8ò§á¥1
+X	java:S125q"<This block of commented-out lines of code should be removed.(íè±×8“ò§á¥1
+R
+java:S2201…"/The return value of "orElseThrow" must be used.(ğ¹°Ïıÿÿÿÿ8µ½ñá¥1
